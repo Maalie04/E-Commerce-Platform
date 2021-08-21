@@ -31,6 +31,15 @@ Product.init(
       allowNull: false,
       defaultValue: 10
     },
+    {
+      category_id: {
+        type: DataTypes.INTEGER,
+        references: {
+          model: "category",
+          key: "id"
+        }
+      }
+    }
   },
   {
     sequelize,
