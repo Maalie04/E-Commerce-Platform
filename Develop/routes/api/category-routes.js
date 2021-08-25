@@ -79,7 +79,7 @@ router.delete('/:id', (req, res) => {
     where: {
       id: req.params.id,
     },
-  }).then(categoryData => res.json(categoryData)
+  }).then(categoryData => res.json({message: "Deleted"})
   ).catch(err => res.json(err))
 });
 
