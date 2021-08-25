@@ -65,7 +65,7 @@ router.delete("/:id", (req, res) => {
     },
   })
     .then((deletedTag) => {
-      res.json(deletedTag);
+      res.json({message: "Deleted!!"});
     })
     .catch((err) => res.json(err));
 });
