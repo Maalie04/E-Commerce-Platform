@@ -14,7 +14,7 @@
 
 >Internet retail, also known as E-commerce, is the largest sector of the electronics industry, generating an estimated $29 trillion in 2019. E-commerce platforms like Shopify and WooCommerce provide a suite of services to businesses of all sizes.
 
->This app is a back end for a E-commerce website that uses the latest technologies.
+>This is a backend app for an e-commerce site which will allow a front end developer connect to the api and have the ability to create, read, update, and delete categories, tags, and products for their online store.
 
 >This app will build the back end for an E-commerce site by modifying starter code.
 
@@ -36,7 +36,7 @@
 
 ## Usage
 
-This Employee Tracker app can be used to view employees, departments, roles within departments, and view the managers of the employees. 
+This E-Commerce app can be used to create, read, update, and delete categories, tags, and products for their online store.
 
 ## Screenshots
 
