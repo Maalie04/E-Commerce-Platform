@@ -47,4 +47,4 @@ This E-Commerce app can be used to create, read, update, and delete categories, 
 ![alt image](./assets/2021-08-24(4).png)
 
 Walkthrough
->https://drive.google.com/file/d/1xB4vAPp-TWtYeXnTiUdiKhofghEVgF_6/view?usp=sharing
+>https://drive.google.com/file/d/1WeMKMS59VcabH80HVf_OVLiG5Sl_ZDZB/view?usp=sharing
