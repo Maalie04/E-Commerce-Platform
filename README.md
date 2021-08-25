@@ -38,13 +38,5 @@
 
 This E-Commerce app can be used to create, read, update, and delete categories, tags, and products for their online store.
 
-## Screenshots
-
-![alt image](./assets/2021-08-24.png)
-![alt image](./assets/2021-08-24(1).png)
-![alt image](./assets/2021-08-24(2).png)
-![alt image](./assets/2021-08-24(3).png)
-![alt image](./assets/2021-08-24(4).png)
-
 Walkthrough
 >https://drive.google.com/file/d/1WeMKMS59VcabH80HVf_OVLiG5Sl_ZDZB/view?usp=sharing
